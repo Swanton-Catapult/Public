@@ -15,6 +15,7 @@
 
 
 <a name="area"></a>
+
 ## Area of Interest 
 |      | Details |
 | ----------- | ----------- |
@@ -34,7 +35,7 @@ Map showing the locations of all farms of interest.
 
 <a name="data"></a>
 
-##Data Sources
+## Data Sources
 
 The analysis in this report has been generated using information from the following sources
 
