@@ -1,4 +1,4 @@
-![Summary of farms](../images/cropped-FM-logo_socmed_profile.jpg)
+![Summary of farms](images/cropped-FM-logo_socmed_profile.jpg)
 # <center> Deforestation, Risk Report & Supplier Analysis For Union Coffee - Huehuetanango Region, Guatemala </center>
 
 ### Report Contents
