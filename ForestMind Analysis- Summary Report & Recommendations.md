@@ -28,7 +28,7 @@
 |**Report compiled by**|Holly Cooper, ForestMind |
 |**Quality control by**  |Steve Jennings, ForestMind|
 
-![Summary of farms](../images/la-libertad-deforestation.jpeg)
+![Summary of farms](images/la-libertad-deforestation.jpeg)
 
 Map showing the locations of all farms of interest.
 
@@ -53,7 +53,7 @@ The analysis in this report has been generated using information from the follow
 
 **2019:** 84,000 ha (Natural Forest Loss)
 
-![Annual deforestation in all of Guatemala](../images/gtm-trend.jpg)
+![Annual deforestation in all of Guatemala](images/gtm-trend.jpg)
 
 *Annual deforestation in all of Guatemala*
 
@@ -67,7 +67,7 @@ The analysis in this report has been generated using information from the follow
 
 **Trend:** Reduction in the rate of deforestation by 70% over 3 years
 
-![Annual deforestation in Huehuetenango municipality](../images/hh-trend.jpg)
+![Annual deforestation in Huehuetenango municipality](images/hh-trend.jpg)
 
 *Annual deforestation in Huehuetenango municipality*
 
@@ -81,7 +81,7 @@ The analysis in this report has been generated using information from the follow
 
 **Trend:** Decrease of 40% over 3 years
 
-![Suspected deforestation](../images/la-libertad-risk.jpeg)
+![Suspected deforestation](images/la-libertad-risk.jpeg)
 
 *Suspected deforestation within 10km of key focus area - Red areas indicate suspected deforestation*
 
@@ -92,7 +92,7 @@ The analysis in this report has been generated using information from the follow
 The key area of interest has a **High** level of forest retention as measured from 2020. When compared to highest accuracy data available from 2001, there appears to be a **93.7%** rate of natural forest retention. 
 
 
-![Forest Retention](/Users/peter.swanton/Documents/GitHub/ForestMind/images/la-libertad-deforestation.jpeg)
+![Forest Retention](images/la-libertad-deforestation.jpeg)
 
 
 <a name="summary"></a>
@@ -117,7 +117,7 @@ The sold volume of coffee beans reported from Farm **UC-FID-234** increased subs
 
 
 ##### Farm UC-FID-275 Potential Additional Forest Clearing
-![High Confidence](../images/high-confidence-example.jpeg)
+![High Confidence](images/high-confidence-example.jpeg)
 
 If this link is verified, this deforestation event would likely be a contravention of the Guatemalan Forest Code which designates the area as protected.  
 
@@ -162,7 +162,7 @@ In July 2019 a request was made to assess the geographic origin of coffee within
 
 Utilising the [VividEconomics](https://www.vivideconomics.com/agriculture-forestry-land-use/) deforestation risk analysis tool the key area of interest was given a risk rating of **Medium**.
 
-![High Risk](../images/high-risk-example.jpeg)
+![High Risk](images/high-risk-example.jpeg)
 
 *Areas highlighted in red are at risk of deforestation within the next 5 years*
 
@@ -379,7 +379,7 @@ During the information onboarding phase the altitude and slope of each supplier 
 
 During the information onboarding phase, the distance from the center of a farm plot to the nearest source of water was calculated. In some cases these water sources may be within the bounds of the property. For farms without poloygon boundary information this would need to be observed on a case by case basis. The map available highlights the farm location and the nearest water source.
 
-![Suspected deforestation](../images/la-libertad-risk.jpeg)
+![Suspected deforestation](images/la-libertad-risk.jpeg)
 
 | Farm ID | Distance to nearest water source | Location |
 |:---|:---:| :---: |
