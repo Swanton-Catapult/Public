@@ -6,7 +6,7 @@
 |      | Details |
 | ----------- | ----------- |
 | **SKU of Interest**      | Arabica, [Huehuetanango](https://goo.gl/maps/ppYLv2LxCU6YCr8y6) – Guatemala       |
-| **Farm & Farm Type**   | [UC-FID-135](), 100% production sold through Coopertiva Esquipulas ForestMind ID3456         |
+| **Farm & Farm Type**   | [UC-FID-135](https://goo.gl/maps/AScERrbLUimZeSFo8), 100% production sold through Coopertiva Esquipulas ForestMind ID3456         |
 |**Analysis period**| 2017-2021|
 |**Alert Date**| 17/10/21 |
 |**Alert Type**| Unexpected production capacity increase |
