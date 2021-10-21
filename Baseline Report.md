@@ -1,4 +1,4 @@
-![Summary of farms](../images/cropped-FM-logo_socmed_profile.jpg)
+![Summary of farms](images/cropped-FM-logo_socmed_profile.jpg)
 # <center> Supplier Baseline ReportFor Union Coffee - Huehuetanango Region, Guatemala </center>
 
 ### Report Contents
@@ -67,7 +67,7 @@ During the information onboarding phase the altitude and slope of each supplier 
 
 During the information onboarding phase, the distance from the center of a farm plot to the nearest source of water was calculated. In some cases these water sources may be within the bounds of the property. For farms without poloygon boundary information this would need to be observed on a case by case basis. The map available highlights the farm location and the nearest water source.
 
-![Suspected deforestation](../images/la-libertad-deforestation.jpeg)
+![Suspected deforestation](images/la-libertad-deforestation.jpeg)
 
 
 |Farm ID   |GPS Location|Field Shape Information|Land Title Documents|Altitude|Slope|Distance to Water|Location|
@@ -270,193 +270,193 @@ Each supplier was assessed using the [Vivid Economics Deforestation Risk Model](
 
 |Farm ID   |Deforestation Risk|Land cover change?|Scale of land cover change (Ha)|Image of Supplier Site                                     |
 |----------|------------------|------------------|-------------------------------|-----------------------------------------------------------|
-|UC-FID-001|High              |Yes               |0.27                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-002|Low               |Yes               |0.09                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-003|High              |Yes               |0.01                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-004|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-005|High              |Yes               |0.18                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-006|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-007|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-008|Medium            |Yes               |1.19                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-009|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-010|High              |Yes               |0.93                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-011|Low               |Yes               |1.01                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-012|Low               |Yes               |0.20                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-013|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-014|Medium            |Yes               |1.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-015|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-016|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-017|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-018|Medium            |Yes               |0.52                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-019|High              |Yes               |0.69                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-020|Low               |Yes               |1.54                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-021|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-022|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-023|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-024|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-025|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-026|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-027|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-028|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-029|High              |Yes               |1.22                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-030|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-031|Medium            |Yes               |1.51                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-032|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-033|Low               |Yes               |0.36                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-034|Low               |Yes               |1.70                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-035|Low               |Yes               |0.27                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-036|Medium            |Yes               |1.11                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-037|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-038|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-039|High              |Yes               |0.16                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-040|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-041|High              |Yes               |0.84                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-042|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-043|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-044|Medium            |Yes               |1.68                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-045|Medium            |Yes               |0.56                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-046|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-047|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-048|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-049|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-050|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-051|Low               |Yes               |0.45                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-052|Medium            |Yes               |0.90                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-053|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-054|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-055|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-056|High              |Yes               |1.55                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-057|High              |Yes               |0.30                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-058|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-059|Medium            |Yes               |1.01                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-060|High              |Yes               |1.51                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-061|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-062|Medium            |Yes               |1.10                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-063|Medium            |Yes               |0.51                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-064|High              |Yes               |0.69                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-065|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-066|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-067|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-068|Medium            |Yes               |1.59                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-069|Low               |Yes               |1.03                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-070|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-071|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-072|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-073|Low               |Yes               |0.13                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-074|High              |Yes               |0.73                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-075|High              |Yes               |1.62                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-076|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-077|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-078|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-079|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-080|High              |Yes               |1.33                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-081|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-082|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-083|High              |Yes               |1.15                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-084|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-085|Low               |Yes               |0.96                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-086|Medium            |Yes               |0.96                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-087|High              |Yes               |1.82                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-088|Low               |Yes               |0.60                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-089|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-090|Low               |Yes               |1.19                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-091|High              |Yes               |0.21                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-092|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-093|High              |Yes               |1.24                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-094|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-095|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-096|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-097|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-098|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-099|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-100|Low               |Yes               |0.30                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-101|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-102|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-103|High              |Yes               |1.94                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-104|Low               |Yes               |0.66                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-105|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-106|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-107|Medium            |Yes               |1.56                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-108|High              |Yes               |0.68                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-109|Medium            |Yes               |1.35                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-110|High              |Yes               |1.51                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-111|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-112|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-113|High              |Yes               |1.02                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-114|Low               |Yes               |1.45                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-115|High              |Yes               |1.35                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-116|Low               |Yes               |0.32                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-117|Low               |Yes               |1.67                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-118|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-119|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-120|Low               |Yes               |1.98                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-121|Medium            |Yes               |1.04                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-122|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-123|Medium            |Yes               |0.96                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-124|High              |Yes               |0.50                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-125|Low               |Yes               |1.42                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-126|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-127|High              |Yes               |1.13                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-128|High              |Yes               |0.21                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-129|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-130|Low               |Yes               |0.72                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-131|Medium            |Yes               |1.41                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-132|Low               |Yes               |1.59                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-133|Medium            |Yes               |1.12                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-134|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-135|Medium            |Yes               |0.31                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-136|Low               |Yes               |1.11                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-137|High              |Yes               |1.10                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-138|Low               |Yes               |0.97                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-139|Low               |Yes               |1.56                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-140|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-141|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-142|High              |Yes               |0.65                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-143|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-144|Low               |Yes               |0.76                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-145|Medium            |Yes               |1.92                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-146|High              |Yes               |0.26                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-147|Medium            |Yes               |1.86                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-148|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-149|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-150|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-151|Low               |Yes               |1.65                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-152|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-153|High              |Yes               |1.71                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-154|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-155|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-156|High              |Yes               |0.65                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-157|Low               |Yes               |0.42                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-158|Medium            |Yes               |1.91                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-159|Low               |Yes               |0.52                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-160|Medium            |Yes               |1.18                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-161|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-162|Medium            |Yes               |0.27                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-163|High              |Yes               |1.74                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-164|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-165|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-166|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-167|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-168|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-169|Medium            |Yes               |0.23                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-170|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-171|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-172|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-173|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-174|Medium            |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-175|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-176|High              |Yes               |0.76                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-177|Low               |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-178|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-179|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-180|Medium            |Yes               |0.85                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-181|High              |Yes               |0.87                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-182|Medium            |Yes               |1.90                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-183|High              |No                |0.00                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-184|Medium            |Yes               |1.76                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-185|Medium            |Yes               |0.13                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-186|High              |Yes               |0.85                           |![Summary of farms](../images/high-confidence-example.jpeg)|
-|UC-FID-187|Low               |Yes               |0.11                           |![Summary of farms](../images/high-confidence-example.jpeg)|
+|UC-FID-001|High              |Yes               |0.27                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-002|Low               |Yes               |0.09                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-003|High              |Yes               |0.01                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-004|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-005|High              |Yes               |0.18                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-006|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-007|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-008|Medium            |Yes               |1.19                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-009|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-010|High              |Yes               |0.93                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-011|Low               |Yes               |1.01                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-012|Low               |Yes               |0.20                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-013|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-014|Medium            |Yes               |1.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-015|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-016|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-017|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-018|Medium            |Yes               |0.52                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-019|High              |Yes               |0.69                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-020|Low               |Yes               |1.54                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-021|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-022|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-023|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-024|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-025|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-026|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-027|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-028|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-029|High              |Yes               |1.22                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-030|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-031|Medium            |Yes               |1.51                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-032|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-033|Low               |Yes               |0.36                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-034|Low               |Yes               |1.70                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-035|Low               |Yes               |0.27                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-036|Medium            |Yes               |1.11                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-037|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-038|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-039|High              |Yes               |0.16                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-040|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-041|High              |Yes               |0.84                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-042|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-043|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-044|Medium            |Yes               |1.68                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-045|Medium            |Yes               |0.56                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-046|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-047|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-048|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-049|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-050|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-051|Low               |Yes               |0.45                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-052|Medium            |Yes               |0.90                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-053|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-054|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-055|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-056|High              |Yes               |1.55                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-057|High              |Yes               |0.30                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-058|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-059|Medium            |Yes               |1.01                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-060|High              |Yes               |1.51                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-061|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-062|Medium            |Yes               |1.10                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-063|Medium            |Yes               |0.51                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-064|High              |Yes               |0.69                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-065|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-066|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-067|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-068|Medium            |Yes               |1.59                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-069|Low               |Yes               |1.03                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-070|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-071|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-072|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-073|Low               |Yes               |0.13                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-074|High              |Yes               |0.73                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-075|High              |Yes               |1.62                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-076|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-077|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-078|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-079|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-080|High              |Yes               |1.33                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-081|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-082|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-083|High              |Yes               |1.15                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-084|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-085|Low               |Yes               |0.96                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-086|Medium            |Yes               |0.96                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-087|High              |Yes               |1.82                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-088|Low               |Yes               |0.60                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-089|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-090|Low               |Yes               |1.19                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-091|High              |Yes               |0.21                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-092|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-093|High              |Yes               |1.24                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-094|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-095|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-096|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-097|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-098|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-099|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-100|Low               |Yes               |0.30                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-101|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-102|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-103|High              |Yes               |1.94                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-104|Low               |Yes               |0.66                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-105|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-106|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-107|Medium            |Yes               |1.56                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-108|High              |Yes               |0.68                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-109|Medium            |Yes               |1.35                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-110|High              |Yes               |1.51                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-111|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-112|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-113|High              |Yes               |1.02                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-114|Low               |Yes               |1.45                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-115|High              |Yes               |1.35                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-116|Low               |Yes               |0.32                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-117|Low               |Yes               |1.67                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-118|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-119|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-120|Low               |Yes               |1.98                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-121|Medium            |Yes               |1.04                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-122|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-123|Medium            |Yes               |0.96                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-124|High              |Yes               |0.50                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-125|Low               |Yes               |1.42                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-126|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-127|High              |Yes               |1.13                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-128|High              |Yes               |0.21                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-129|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-130|Low               |Yes               |0.72                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-131|Medium            |Yes               |1.41                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-132|Low               |Yes               |1.59                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-133|Medium            |Yes               |1.12                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-134|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-135|Medium            |Yes               |0.31                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-136|Low               |Yes               |1.11                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-137|High              |Yes               |1.10                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-138|Low               |Yes               |0.97                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-139|Low               |Yes               |1.56                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-140|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-141|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-142|High              |Yes               |0.65                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-143|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-144|Low               |Yes               |0.76                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-145|Medium            |Yes               |1.92                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-146|High              |Yes               |0.26                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-147|Medium            |Yes               |1.86                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-148|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-149|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-150|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-151|Low               |Yes               |1.65                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-152|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-153|High              |Yes               |1.71                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-154|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-155|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-156|High              |Yes               |0.65                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-157|Low               |Yes               |0.42                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-158|Medium            |Yes               |1.91                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-159|Low               |Yes               |0.52                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-160|Medium            |Yes               |1.18                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-161|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-162|Medium            |Yes               |0.27                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-163|High              |Yes               |1.74                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-164|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-165|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-166|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-167|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-168|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-169|Medium            |Yes               |0.23                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-170|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-171|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-172|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-173|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-174|Medium            |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-175|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-176|High              |Yes               |0.76                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-177|Low               |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-178|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-179|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-180|Medium            |Yes               |0.85                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-181|High              |Yes               |0.87                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-182|Medium            |Yes               |1.90                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-183|High              |No                |0.00                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-184|Medium            |Yes               |1.76                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-185|Medium            |Yes               |0.13                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-186|High              |Yes               |0.85                           |![Summary of farms](images/high-confidence-example.jpeg)|
+|UC-FID-187|Low               |Yes               |0.11                           |![Summary of farms](images/high-confidence-example.jpeg)|
 
 ---
 
@@ -464,7 +464,7 @@ Each supplier was assessed using the [Vivid Economics Deforestation Risk Model](
 
 **2019:** 84,000 ha (Natural Forest Loss)
 
-![Annual deforestation in all of Guatemala](../images/gtm-trend.jpg)
+![Annual deforestation in all of Guatemala](images/gtm-trend.jpg)
 
 *Annual deforestation in all of Guatemala*
 
@@ -478,7 +478,7 @@ Each supplier was assessed using the [Vivid Economics Deforestation Risk Model](
 
 **Trend:** Reduction in the rate of deforestation by 70% over 3 years
 
-![Annual deforestation in Huehuetenango municipality](../images/hh-trend.jpg)
+![Annual deforestation in Huehuetenango municipality](images/hh-trend.jpg)
 
 *Annual deforestation in Huehuetenango municipality*
 
@@ -492,7 +492,7 @@ Each supplier was assessed using the [Vivid Economics Deforestation Risk Model](
 
 **Trend:** Decrease of 40% over 3 years
 
-![Suspected deforestation](../images/la-libertad-risk.jpeg)
+![Suspected deforestation](images/la-libertad-risk.jpeg)
 
 *Suspected deforestation within 10km of key focus area - Red areas indicate suspected deforestation*
 
