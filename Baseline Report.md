@@ -1,5 +1,5 @@
 ![Summary of farms](images/cropped-FM-logo_socmed_profile.jpg)
-# <center> Supplier Baseline ReportFor Union Coffee - Huehuetanango Region, Guatemala </center>
+# <center> Supplier Baseline Report For Union Coffee - Huehuetanango Region, Guatemala </center>
 
 ### Report Contents
 
