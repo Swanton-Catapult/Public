@@ -503,7 +503,7 @@ Each supplier was assessed using the [Vivid Economics Deforestation Risk Model](
 The key area of interest has a **High** level of forest retention as measured from 2020. When compared to highest accuracy data available from 2001, there appears to be a **93.7%** rate of natural forest retention. 
 
 
-![Forest Retention](/Users/peter.swanton/Documents/GitHub/ForestMind/images/la-libertad-deforestation.jpeg)
+![Forest Retention](images/la-libertad-deforestation.jpeg)
 
 
 
